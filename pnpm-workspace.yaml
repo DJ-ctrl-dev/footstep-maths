@@ -1,0 +1,3 @@
+allowBuilds:
+  mysql2: true
+  next: true
